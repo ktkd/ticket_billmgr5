@@ -13,14 +13,10 @@ import urllib3
 import ticketsbill5.config as cfg
 
 
-# urllib3.disable_warnings()
-
-
 class Ticket:
     """
     Ticket class
     """
-
     def __init__(self, msg_id, title, tk_id, client, is_unread):
         self.msg_id = msg_id
         self.is_unread = is_unread

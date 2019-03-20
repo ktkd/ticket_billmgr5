@@ -26,7 +26,7 @@ You should install environment variables-
 <br>`tickets_webhook_token=0210aa315fc8890e3cc26fbe4c1e56a62fa3cdd392`
 
 # install: 
-python3 setup.py install
+`python3 setup.py install`
 
 # run: 
-ticketsbill5
+`ticketsbill5`
